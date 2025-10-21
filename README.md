@@ -4,7 +4,7 @@
 
 <h3>System Preparation</h3>
 Use two virtual machines (VMware or VirtualBox):
-<h6>Ubuntu 22.04 LTS (Server)<h6>
-<h6>Windows 10 (Client)</h6>
+<ul>Ubuntu 22.04 LTS (Server)<ul>
+<ul>Windows 10 (Client)</ul>
 
 Configure network as Host-Only or Internal Network so both systems communicate.
