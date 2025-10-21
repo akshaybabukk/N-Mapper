@@ -4,6 +4,7 @@
 
 System PreparationUse two virtual machines (VMware or VirtualBox):
 Ubuntu 22.04 LTS (Server)
+
 Windows 10 (Client)
 
 Configure network as Host-Only or Internal Network so both systems communicate.
